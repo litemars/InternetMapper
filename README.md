@@ -78,7 +78,7 @@ A world map showing the traceroute paths:
 ![Traceroute Map](example/map.png)
 
 ### 4. Graph Database Visualization 
-A better example of a Network graph
+A better example of a network graph:
 
 ![Graph in Neo4j](example/graph1.png)
 
